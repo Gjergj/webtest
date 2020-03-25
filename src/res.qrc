@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/close.png</file>
+        <file>img/maximize.png</file>
+        <file>img/configuration-icon.png</file>
+        <file>qml/main.qml</file>
+        <file>qml/UrlencodedBody.qml</file>
+        <file>qml/HeadersEditor.qml</file>
+        <file>qml/BodyEditor.qml</file>
+        <file>qml/QueryStringEditor.qml</file>
+        <file>img/tab-new-384.png</file>
+    </qresource>
+</RCC>
